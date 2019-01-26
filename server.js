@@ -4,7 +4,7 @@ const db = require('quick.db');
 const client = new Discord.Client();
 
 // Bot 
-client.login('MzQ2NDcyMzc3MzU5Nzk0MTc2.DeG31w.P5kQfwpYyrbUGEX_1CsPAAtQYsE');
+client.login('NTM4NDYzMzM0Njg1NjA1OTE4.Dy28Rg.EnEE80aIOqsAOkIzwn7UVrE6GOk');
 const botconfig = require("./cfg/botconfig.json");
 let owners = ["76063689064583168"];
 //            papershredder432  
